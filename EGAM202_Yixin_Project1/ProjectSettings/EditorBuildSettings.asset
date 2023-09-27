@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PikminCover.unity
+    guid: 9821aad5643643742932508f5e64b7b8
   m_configObjects: {}
