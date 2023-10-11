@@ -16,8 +16,12 @@ public class PlayAgain : MonoBehaviour
     {
         
     }
-    public void LoadGameAgain()
+    public void LoadPikminGameAgain()
     {
         SceneManager.LoadScene("PikminCover2");
+    }
+    public void LoadOneButtonGameAgain()
+    {
+        SceneManager.LoadScene("Jam_OneButtonGame");
     }
 }
