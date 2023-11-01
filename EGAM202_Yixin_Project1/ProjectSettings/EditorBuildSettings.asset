@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PikminCover2.unity
     guid: 51f0df02f5f5c1143b0258d1d7fe05ae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Week4Jam1/Jam_OneButtonGame.unity
     guid: ee87e47e7fdf55d41b42cbe453e5d994
+  - enabled: 1
+    path: Assets/Scenes/MiniFishingGame.unity
+    guid: 6fd4f4d409eadf443ab3d00dcd1eb671
   m_configObjects: {}
